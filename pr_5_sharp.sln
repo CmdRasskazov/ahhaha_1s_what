@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr_5_sharp", "pr_5_sharp.csproj", "{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Debug|x64.ActiveCfg = Debug|x64
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Debug|x64.Build.0 = Debug|x64
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Release|x64.ActiveCfg = Release|x64
+		{BEAA2436-F91C-4A65-97DF-FFC5D004DCB8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8C7E76C-E139-4C58-A2A9-897F60DE8C0C}
+	EndGlobalSection
+EndGlobal
